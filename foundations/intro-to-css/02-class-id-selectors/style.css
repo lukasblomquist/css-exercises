@@ -1,0 +1,22 @@
+.odd {
+  background-color: #f8d7da; /* light red/pink */
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* Element 2 styles (ID selector) */
+#blue-big {
+  color: blue;
+  font-size: 36px;
+}
+
+/* Additional style for element 3 */
+.large-text {
+  font-size: 24px;
+}
+
+/* Element 4 styles (ID selector) */
+#green-bold {
+  background-color: #d4edda; /* light green */
+  font-size: 24px;
+  font-weight: bold;
+}
