@@ -1,0 +1,15 @@
+.black-box,
+.yellow-box {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+
+.black-box {
+  background-color: black;
+  color: white;
+}
+
+.yellow-box {
+  background-color: yellow;
+}
